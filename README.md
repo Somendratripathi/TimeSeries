@@ -13,5 +13,5 @@ The following document discusses the solution in brief along with approaches con
 
 Also, included is the .ipynb that aims to walk you through the following: 
 1.	Exploratory analysis and visualizations to assess the impact of seasonality, trend, missing values, out of stock, and promos.
-2.	Feature building engineering process
+2.	Feature engineering process
 3.	Reproducible code for the forecasting tool
